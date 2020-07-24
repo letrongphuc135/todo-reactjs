@@ -1,0 +1,8 @@
+
+.sort_selected{
+    content: '\f00c';
+    font-weight: normal;
+    margin: 0px 0px 0px 10px;
+    display: inline-block;
+    background: #cdcaca99;
+  }
